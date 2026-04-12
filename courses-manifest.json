@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T16:29:22.395850+00:00",
+  "generated_at": "2026-04-12T16:35:25.678438+00:00",
   "count": 22,
   "courses": [
     {
@@ -8,8 +8,8 @@
       "repo": "https://github.com/Imbad0202/academic-research-skills",
       "path": "academic-research-skills-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/academic-research-skills-course",
-      "pages_guess_url": "https://academic-research-skills-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/academic-research-skills-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "agentshire-course",
@@ -17,8 +17,8 @@
       "repo": "https://github.com/Agentshire/Agentshire",
       "path": "agentshire-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/agentshire-course",
-      "pages_guess_url": "https://agentshire-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/agentshire-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "another-course",
@@ -26,8 +26,8 @@
       "repo": "https://github.com/Zfinix/another",
       "path": "another-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/another-course",
-      "pages_guess_url": "https://another-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/another-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "cc-switch-course",
@@ -35,8 +35,8 @@
       "repo": "https://github.com/farion1231/cc-switch",
       "path": "cc-switch-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/cc-switch-course",
-      "pages_guess_url": "https://cc-switch-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/cc-switch-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "clicky-course",
@@ -44,8 +44,8 @@
       "repo": "https://github.com/farzaa/clicky",
       "path": "clicky-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/clicky-course",
-      "pages_guess_url": "https://clicky-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/clicky-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "colleague-skill-course",
@@ -53,8 +53,8 @@
       "repo": "https://github.com/titanwings/colleague-skill/",
       "path": "colleague-skill-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/colleague-skill-course",
-      "pages_guess_url": "https://colleague-skill-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/colleague-skill-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "dive-into-llms-course",
@@ -62,8 +62,8 @@
       "repo": "https://github.com/Lordog/dive-into-llms",
       "path": "dive-into-llms-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/dive-into-llms-course",
-      "pages_guess_url": "https://dive-into-llms-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/dive-into-llms-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "golutra-course",
@@ -71,8 +71,8 @@
       "repo": "https://github.com/golutra/golutra",
       "path": "golutra-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/golutra-course",
-      "pages_guess_url": "https://golutra-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/golutra-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "gstack-course",
@@ -80,8 +80,8 @@
       "repo": "https://github.com/garrytan/gstack",
       "path": "gstack-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/gstack-course",
-      "pages_guess_url": "https://gstack-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/gstack-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "harnesscode-course",
@@ -89,8 +89,8 @@
       "repo": "https://github.com/yzddp/harnesscode/",
       "path": "harnesscode-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/harnesscode-course",
-      "pages_guess_url": "https://harnesscode-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/harnesscode-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "hermes-agent-course",
@@ -98,8 +98,8 @@
       "repo": "https://github.com/nousresearch/hermes-agent",
       "path": "hermes-agent-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/hermes-agent-course",
-      "pages_guess_url": "https://hermes-agent-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/hermes-agent-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "machinaos-course",
@@ -107,8 +107,8 @@
       "repo": "https://github.com/trohitg/MachinaOS",
       "path": "machinaos-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/machinaos-course",
-      "pages_guess_url": "https://machinaos-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/machinaos-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "mempalace-course",
@@ -116,8 +116,8 @@
       "repo": "https://github.com/MemPalace/mempalace",
       "path": "mempalace-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/mempalace-course",
-      "pages_guess_url": "https://mempalace-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/mempalace-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "nuwa-skill-course",
@@ -125,8 +125,8 @@
       "repo": "https://github.com/alchaincyf/nuwa-skill/",
       "path": "nuwa-skill-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/nuwa-skill-course",
-      "pages_guess_url": "https://nuwa-skill-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/nuwa-skill-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "opencli-course",
@@ -134,8 +134,8 @@
       "repo": "https://github.com/jackwener/opencli",
       "path": "opencli-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/opencli-course",
-      "pages_guess_url": "https://opencli-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/opencli-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "openharness-course",
@@ -143,8 +143,8 @@
       "repo": "https://github.com/HKUDS/OpenHarness",
       "path": "openharness-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/openharness-course",
-      "pages_guess_url": "https://openharness-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/openharness-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "paperclip-course",
@@ -152,8 +152,8 @@
       "repo": "https://github.com/paperclipai/paperclip",
       "path": "paperclip-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/paperclip-course",
-      "pages_guess_url": "https://paperclip-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/paperclip-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "picdoc-course",
@@ -161,8 +161,8 @@
       "repo": "https://www.picdoc.cn/",
       "path": "picdoc-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/picdoc-course",
-      "pages_guess_url": "https://picdoc-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/picdoc-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "polymarket-cli-course",
@@ -170,8 +170,8 @@
       "repo": "https://github.com/Polymarket/polymarket-cli",
       "path": "polymarket-cli-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/polymarket-cli-course",
-      "pages_guess_url": "https://polymarket-cli-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/polymarket-cli-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "toonflow-app-course",
@@ -179,8 +179,8 @@
       "repo": "https://github.com/HBAI-Ltd/Toonflow-app",
       "path": "toonflow-app-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/toonflow-app-course",
-      "pages_guess_url": "https://toonflow-app-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/toonflow-app-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "turboquant-course",
@@ -188,8 +188,8 @@
       "repo": "https://github.com/0xSero/turboquant",
       "path": "turboquant-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/turboquant-course",
-      "pages_guess_url": "https://turboquant-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/turboquant-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     },
     {
       "slug": "waoowaoo-course",
@@ -197,8 +197,8 @@
       "repo": "https://github.com/Honghurumeng/waoowaoo",
       "path": "waoowaoo-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/waoowaoo-course",
-      "pages_guess_url": "https://waoowaoo-course.pages.dev/",
-      "updated_at": "2026-04-12T16:29:22.395850+00:00"
+      "course_url": "https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/waoowaoo-course/index.html",
+      "updated_at": "2026-04-12T16:35:25.678438+00:00"
     }
   ]
 }

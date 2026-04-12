@@ -24,6 +24,12 @@ function render(courses) {
   empty.classList.add("hidden");
 
   for (const c of courses) {
+    const courseUrl =
+      c.course_url ||
+      `https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/${c.slug}/index.html`;
+    const filesUrl =
+      c.github_tree_url ||
+      `https://github.com/keithhegit/repository2course/tree/main/${c.slug}`;
     const li = document.createElement("li");
     li.className = "course-item";
     li.innerHTML = `
@@ -31,8 +37,8 @@ function render(courses) {
       <div class="slug">${c.slug}</div>
       <div class="links">
         <a href="${c.repo}" target="_blank" rel="noopener">Source Repo</a>
-        <a href="${c.pages_guess_url || "#"}" target="_blank" rel="noopener">Pages URL</a>
-        <a href="${c.github_tree_url || "#"}" target="_blank" rel="noopener">Course Files</a>
+        <a href="${courseUrl}" target="_blank" rel="noopener">Course Page</a>
+        <a href="${filesUrl}" target="_blank" rel="noopener">Course Files</a>
       </div>
       <div class="slug">updated: ${fmtTime(c.updated_at)}</div>
     `;
