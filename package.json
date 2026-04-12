@@ -1,0 +1,10 @@
+{
+  "name": "repository2course-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portal frontend for tracking repository2course course updates",
+  "scripts": {
+    "build": "echo \"Static portal: no build step required.\"",
+    "start": "npx --yes serve ."
+  }
+}
