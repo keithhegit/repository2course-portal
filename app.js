@@ -26,7 +26,7 @@ function render(courses) {
   for (const c of courses) {
     const courseUrl =
       c.course_url ||
-      `https://cdn.jsdelivr.net/gh/keithhegit/repository2course@main/${c.slug}/index.html`;
+      `https://keithhegit.github.io/repository2course/${c.slug}/index.html`;
     const filesUrl =
       c.github_tree_url ||
       `https://github.com/keithhegit/repository2course/tree/main/${c.slug}`;
