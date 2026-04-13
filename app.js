@@ -14,7 +14,7 @@ function fmtTime(v) {
 }
 
 function render(courses) {
-  const list = document.getElementById("course-list");
+  const list = document.getElementById("list");
   const empty = document.getElementById("empty");
   list.innerHTML = "";
   if (!courses.length) {
