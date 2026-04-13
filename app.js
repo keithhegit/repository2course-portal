@@ -35,9 +35,12 @@ function render(courses) {
     if (c.repo) {
       try {
         const url = new URL(c.repo);
+        const isGithubRepo = /(^|\.)github\.com$/i.test(url.hostname);
         const parts = url.pathname.split('/').filter(Boolean);
-        if (parts.length >= 2) {
+        if (isGithubRepo && parts.length >= 2) {
           shortTitle = `${parts[0]}/${parts[1]}`;
+        } else if (c.title) {
+          shortTitle = c.title.replace(/\s*互动拆解课\s*$/, "");
         }
       } catch (e) {}
     }
