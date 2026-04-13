@@ -3,34 +3,33 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Repository2Course Portal</title>
+  <title>Course Portal</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,700;12..96,800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400;1,9..40,500&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
-  <header class="header">
-    <h1>Repository2Course Portal</h1>
-    <p>自动跟踪每次新增的 Course，并展示最新清单。</p>
-    <div class="meta">
-      <span id="manifest-source"></span>
-      <span id="manifest-updated"></span>
-      <span id="manifest-count"></span>
-    </div>
-  </header>
+  <div class="container">
+    <header class="header">
+      <h1>Portal for course tracking</h1>
+      <div class="controls">
+        <input type="text" id="q" placeholder="Search course name / slug / repo..." autocomplete="off">
+        <button id="reload">Refresh</button>
+      </div>
+    </header>
 
-  <main>
-    <section class="toolbar">
-      <input id="q" type="search" placeholder="搜索课程名 / slug / 仓库 URL">
-      <button id="reload">刷新</button>
-    </section>
-    <section>
-      <ul id="course-list" class="course-list"></ul>
-      <p id="empty" class="empty hidden">没有匹配的课程</p>
-    </section>
-  </main>
+    <main>
+      <div id="empty" class="empty hidden">No matching courses found</div>
+      <ul id="list" class="course-list"></ul>
+    </main>
 
-  <footer class="footer">
-    <span>Portal for course tracking</span>
-  </footer>
+    <footer class="footer">
+      <div id="manifest-source">manifest: loading...</div>
+      <div id="manifest-updated">generated_at: -</div>
+      <div id="manifest-count">count: 0</div>
+    </footer>
+  </div>
 
   <script src="./app.js"></script>
 </body>

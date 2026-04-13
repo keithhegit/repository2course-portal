@@ -30,17 +30,35 @@ function render(courses) {
     const filesUrl =
       c.github_tree_url ||
       `https://github.com/keithhegit/repository2course/tree/main/${c.slug}`;
+      
+    let shortTitle = c.slug;
+    if (c.repo) {
+      try {
+        const url = new URL(c.repo);
+        const parts = url.pathname.split('/').filter(Boolean);
+        if (parts.length >= 2) {
+          shortTitle = `${parts[0]}/${parts[1]}`;
+        }
+      } catch (e) {}
+    }
+
     const li = document.createElement("li");
     li.className = "course-item";
     li.innerHTML = `
-      <h3>${c.title || c.slug}</h3>
+      <h3>${shortTitle}</h3>
       <div class="slug">${c.slug}</div>
       <div class="links">
-        <a href="${c.repo}" target="_blank" rel="noopener">Source Repo</a>
-        <a href="${courseUrl}" target="_blank" rel="noopener">Course Page</a>
-        <a href="${filesUrl}" target="_blank" rel="noopener">Course Files</a>
+        <a href="${c.repo}" target="_blank" rel="noopener" title="Source Repo">
+          <svg width="24" height="24" viewBox="0 0 16 16" fill="currentColor"><path d="M8 0C3.58 0 0 3.58 0 8a8 8 0 005.47 7.59c.4.07.55-.17.55-.38v-1.33c-2.22.49-2.69-1.07-2.69-1.07-.36-.92-.89-1.17-.89-1.17-.73-.5.06-.49.06-.49.81.06 1.23.83 1.23.83.72 1.24 1.89.88 2.35.67.07-.52.28-.88.5-1.08-1.77-.2-3.64-.89-3.64-3.95 0-.87.31-1.58.82-2.14-.08-.2-.36-1.01.08-2.1 0 0 .67-.21 2.2.82A7.6 7.6 0 018 3.8c.68 0 1.36.09 2 .26 1.53-1.03 2.2-.82 2.2-.82.44 1.09.16 1.9.08 2.1.51.56.82 1.27.82 2.14 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48v2.19c0 .21.14.46.55.38A8 8 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        </a>
+        <a href="${courseUrl}" target="_blank" rel="noopener" title="Course Page">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"></circle><polygon points="10 8 16 12 10 16 10 8"></polygon></svg>
+        </a>
+        <a href="${filesUrl}" target="_blank" rel="noopener" title="Course Files">
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+        </a>
       </div>
-      <div class="slug">updated: ${fmtTime(c.updated_at)}</div>
+      <div class="slug" style="margin-top: auto; padding-top: 12px; font-size: 11px;">updated: ${fmtTime(c.updated_at)}</div>
     `;
     list.appendChild(li);
   }
