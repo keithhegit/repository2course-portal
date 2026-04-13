@@ -1,204 +1,248 @@
 {
-  "generated_at": "2026-04-13T02:51:32.695948+00:00",
+  "generated_at": "2026-04-13T04:38:07.159802+00:00",
   "count": 22,
   "courses": [
     {
       "slug": "academic-research-skills-course",
       "title": "Academic Research Skills 互动拆解课",
       "repo": "https://github.com/Imbad0202/academic-research-skills",
+      "category": "skill",
+      "description": "面向学术研究与论文阅读的 AI 技能",
       "path": "academic-research-skills-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/academic-research-skills-course",
       "course_url": "https://keithhegit.github.io/repository2course/academic-research-skills-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "agentshire-course",
       "title": "Agentshire 互动拆解课",
       "repo": "https://github.com/Agentshire/Agentshire",
+      "category": "agent-tools",
+      "description": "雇佣虚拟员工协作的 Agent 平台",
       "path": "agentshire-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/agentshire-course",
       "course_url": "https://keithhegit.github.io/repository2course/agentshire-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "another-course",
       "title": "Another 互动拆解课",
       "repo": "https://github.com/Zfinix/another",
+      "category": "agent-tools",
+      "description": "探索未知的 AI Agent 实验性项目",
       "path": "another-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/another-course",
       "course_url": "https://keithhegit.github.io/repository2course/another-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "cc-switch-course",
       "title": "CC Switch 互动拆解课",
       "repo": "https://github.com/farion1231/cc-switch",
+      "category": "agent-tools",
+      "description": "高效管理与切换多个 Claude 账号",
       "path": "cc-switch-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/cc-switch-course",
       "course_url": "https://keithhegit.github.io/repository2course/cc-switch-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "clicky-course",
       "title": "Clicky 互动拆解课",
       "repo": "https://github.com/farzaa/clicky",
+      "category": "agent-tools",
+      "description": "基于视觉的 GUI 自动化 Agent",
       "path": "clicky-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/clicky-course",
       "course_url": "https://keithhegit.github.io/repository2course/clicky-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "colleague-skill-course",
       "title": "Colleague Skill 互动拆解课",
       "repo": "https://github.com/titanwings/colleague-skill/",
+      "category": "skill",
+      "description": "虚拟同事协作与日常办公辅助技能",
       "path": "colleague-skill-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/colleague-skill-course",
       "course_url": "https://keithhegit.github.io/repository2course/colleague-skill-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "dive-into-llms-course",
       "title": "Dive Into LLMs 互动拆解课",
       "repo": "https://github.com/Lordog/dive-into-llms",
+      "category": "tutorial",
+      "description": "深入理解大模型训练与微调",
       "path": "dive-into-llms-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/dive-into-llms-course",
       "course_url": "https://keithhegit.github.io/repository2course/dive-into-llms-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "golutra-course",
       "title": "golutra 互动拆解课",
       "repo": "https://github.com/golutra/golutra",
+      "category": "agent-tools",
+      "description": "支持多模型并行调度的桌面端应用",
       "path": "golutra-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/golutra-course",
       "course_url": "https://keithhegit.github.io/repository2course/golutra-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "gstack-course",
       "title": "gstack 互动拆解课",
       "repo": "https://github.com/garrytan/gstack",
+      "category": "agent-tools",
+      "description": "组织 Claude 虚拟工程团队进行开发",
       "path": "gstack-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/gstack-course",
       "course_url": "https://keithhegit.github.io/repository2course/gstack-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "harnesscode-course",
       "title": "HarnessCode 互动拆解课",
       "repo": "https://github.com/yzddp/harnesscode/",
+      "category": "other-tools",
+      "description": "A codebase turned into an interactive course.",
       "path": "harnesscode-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/harnesscode-course",
       "course_url": "https://keithhegit.github.io/repository2course/harnesscode-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "hermes-agent-course",
       "title": "Hermes Agent 互动拆解课",
       "repo": "https://github.com/nousresearch/hermes-agent",
+      "category": "agent-tools",
+      "description": "带记忆与自我进化的 AI Agent 框架",
       "path": "hermes-agent-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/hermes-agent-course",
       "course_url": "https://keithhegit.github.io/repository2course/hermes-agent-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "machinaos-course",
       "title": "MachinaOS 互动拆解课",
       "repo": "https://github.com/trohitg/MachinaOS",
+      "category": "agent-tools",
+      "description": "为 AI Agent 打造的虚拟操作系统",
       "path": "machinaos-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/machinaos-course",
       "course_url": "https://keithhegit.github.io/repository2course/machinaos-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "mempalace-course",
       "title": "MemPalace 互动拆解课",
       "repo": "https://github.com/MemPalace/mempalace",
+      "category": "agent-tools",
+      "description": "构建个人知识库的记忆宫殿",
       "path": "mempalace-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/mempalace-course",
       "course_url": "https://keithhegit.github.io/repository2course/mempalace-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "nuwa-skill-course",
       "title": "Nuwa Skill 互动拆解课",
       "repo": "https://github.com/alchaincyf/nuwa-skill/",
+      "category": "skill",
+      "description": "基于大模型的代码生成与创作技能",
       "path": "nuwa-skill-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/nuwa-skill-course",
       "course_url": "https://keithhegit.github.io/repository2course/nuwa-skill-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "opencli-course",
       "title": "OpenCLI 互动拆解课",
       "repo": "https://github.com/jackwener/opencli",
+      "category": "cli-tools",
+      "description": "连接大模型与本地环境的命令行助手",
       "path": "opencli-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/opencli-course",
       "course_url": "https://keithhegit.github.io/repository2course/opencli-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "openharness-course",
       "title": "OpenHarness 互动拆解课",
       "repo": "https://github.com/HKUDS/OpenHarness",
+      "category": "agent-tools",
+      "description": "统一管理 AI Agent 运行时的框架",
       "path": "openharness-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/openharness-course",
       "course_url": "https://keithhegit.github.io/repository2course/openharness-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "paperclip-course",
       "title": "Paperclip 互动拆解课",
       "repo": "https://github.com/paperclipai/paperclip",
+      "category": "agent-tools",
+      "description": "自动化网页信息剪报与知识整理",
       "path": "paperclip-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/paperclip-course",
       "course_url": "https://keithhegit.github.io/repository2course/paperclip-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "picdoc-course",
       "title": "PicDoc 互动拆解课",
       "repo": "https://www.picdoc.cn/",
+      "category": "other-tools",
+      "description": "A codebase turned into an interactive course.",
       "path": "picdoc-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/picdoc-course",
       "course_url": "https://keithhegit.github.io/repository2course/picdoc-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "polymarket-cli-course",
       "title": "Polymarket CLI 互动拆解课",
       "repo": "https://github.com/Polymarket/polymarket-cli",
+      "category": "cli-tools",
+      "description": "终端直接获取 Polymarket 预测数据",
       "path": "polymarket-cli-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/polymarket-cli-course",
       "course_url": "https://keithhegit.github.io/repository2course/polymarket-cli-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "toonflow-app-course",
       "title": "Toonflow 互动拆解课",
       "repo": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "category": "agent-tools",
+      "description": "自动化动漫生成与工作流管理",
       "path": "toonflow-app-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/toonflow-app-course",
       "course_url": "https://keithhegit.github.io/repository2course/toonflow-app-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "turboquant-course",
       "title": "TurboQuant 互动拆解课",
       "repo": "https://github.com/0xSero/turboquant",
+      "category": "other-tools",
+      "description": "快速量化交易与数据分析框架",
       "path": "turboquant-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/turboquant-course",
       "course_url": "https://keithhegit.github.io/repository2course/turboquant-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     },
     {
       "slug": "waoowaoo-course",
       "title": "waoowaoo 互动拆解课",
       "repo": "https://github.com/Honghurumeng/waoowaoo",
+      "category": "other-tools",
+      "description": "A codebase turned into an interactive course.",
       "path": "waoowaoo-course/index.html",
       "github_tree_url": "https://github.com/keithhegit/repository2course/tree/main/waoowaoo-course",
       "course_url": "https://keithhegit.github.io/repository2course/waoowaoo-course/index.html",
-      "updated_at": "2026-04-13T02:51:32.695948+00:00"
+      "updated_at": "2026-04-13T04:38:07.159802+00:00"
     }
   ]
 }
